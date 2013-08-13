@@ -1,8 +1,8 @@
 {
   "name": "angular-express-seed",
   "version": "0.0.0",
-   "private": true,
-   "scripts": {
+  "private": true,
+  "scripts": {
     "start": "node app.js"
   },
   "dependencies": {
